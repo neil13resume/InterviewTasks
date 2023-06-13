@@ -1,0 +1,6 @@
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\bin\Debug\CalculateDifferentCombinations.exe.config
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\bin\Debug\CalculateDifferentCombinations.exe
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\bin\Debug\CalculateDifferentCombinations.pdb
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\obj\Debug\CalculateDifferentCombinations.csproj.CoreCompileInputs.cache
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\obj\Debug\CalculateDifferentCombinations.exe
+C:\Users\dj39kk\source\repos\CalculateDifferentCombinations\CalculateDifferentCombinations\obj\Debug\CalculateDifferentCombinations.pdb
